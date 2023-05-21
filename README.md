@@ -1,2 +1,2 @@
-# my-resume
-https://preview.launchoice.com/personal_cv/
+# resume
+Hi, my name's Như Trung
